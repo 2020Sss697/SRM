@@ -46,26 +46,25 @@ QQ：2401025051
 + **供应商页面**
   + 询价页面
 
-  ![](C:\Users\24010\Desktop\询价.png)
+  ![](https://github.com/2020Sss697/SRM/blob/main/image/%E8%AF%A2%E4%BB%B7.png)
 
   + 报价页面
 
-  ![](C:\Users\24010\Desktop\报价.png)
+  ![](https://github.com/2020Sss697/SRM/blob/main/image/%E6%8A%A5%E4%BB%B7.png)
 
   + 订单页面
 
-  ![](C:\Users\24010\Desktop\订单.png)
+  ![](https://github.com/2020Sss697/SRM/blob/main/image/%E8%AE%A2%E5%8D%95.png)
 
   + 绩效表现页面
 
-  ![效考](C:\Users\24010\Desktop\绩效考核.png)
+  ![](https://github.com/2020Sss697/SRM/blob/main/image/%E7%BB%A9%E6%95%88%E8%80%83%E6%A0%B8.png)
 
   + 个人中心
 
-  ![人中](C:\Users\24010\Desktop\个人中心.png)
+  ![](https://github.com/2020Sss697/SRM/blob/main/image/%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83.png)
 
 
 * **部门经理页面**
 
-
-![](C:\Users\24010\Desktop\审批.png)
+![](https://github.com/2020Sss697/SRM/blob/main/image/%E5%AE%A1%E6%89%B9.png)
