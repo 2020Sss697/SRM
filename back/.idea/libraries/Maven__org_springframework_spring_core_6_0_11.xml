@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework:spring-core:6.0.11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../game/apache-maven-3.9.5/maven_repository/org/springframework/spring-core/6.0.11/spring-core-6.0.11.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../game/apache-maven-3.9.5/maven_repository/org/springframework/spring-core/6.0.11/spring-core-6.0.11-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../game/apache-maven-3.9.5/maven_repository/org/springframework/spring-core/6.0.11/spring-core-6.0.11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
