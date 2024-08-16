@@ -41,7 +41,7 @@ QQ：2401025051
 
 + **注册登录页面**
 
-![]((https://github.com/2020Sss697/SRM/blob/main/image/%E7%99%BB%E5%BD%95%E9%A1%B5%E9%9D%A2.png))
+![](https://github.com/2020Sss697/SRM/blob/main/image/%E7%99%BB%E5%BD%95%E9%A1%B5%E9%9D%A2.png)
 
 + **供应商页面**
   + 询价页面
